@@ -1,0 +1,77 @@
+{
+  "project_info": {
+    "project_number": "2769643258",
+    "firebase_url": "https://movie-ticket-reserve-default-rtdb.firebaseio.com",
+    "project_id": "movie-ticket-reserve",
+    "storage_bucket": "movie-ticket-reserve.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:2769643258:android:1f927c88c291c05cea4b43",
+        "android_client_info": {
+          "package_name": "com.example.movie_ticket_reserve"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "2769643258-tai8s360j5f68pcd0s4r5r4omniqdu2s.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.movie_ticket_reserve",
+            "certificate_hash": "fa50196447d11905de206a82ce3999f4cf22b738"
+          }
+        },
+        {
+          "client_id": "2769643258-ubt6etjstc56lrcjbqrvs8vmpal7gm31.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDRrv6asDnlpOQRUavIJkHVTjSOknlu7H0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "2769643258-ubt6etjstc56lrcjbqrvs8vmpal7gm31.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:2769643258:android:27d3a2387083ea35ea4b43",
+        "android_client_info": {
+          "package_name": "com.example.the_vendor"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "2769643258-ubt6etjstc56lrcjbqrvs8vmpal7gm31.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDRrv6asDnlpOQRUavIJkHVTjSOknlu7H0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "2769643258-ubt6etjstc56lrcjbqrvs8vmpal7gm31.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
