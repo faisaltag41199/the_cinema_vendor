@@ -5,7 +5,8 @@ it's enable an admin to add , udate , delete movie and show booked seats.
 
 # Features
 
-* fetch,add,update,delete a movie
+* fetch,add,update,delete a movie 
+* show a list of added movies
 * show a movie data
 * show booked and available seats 
 * show ticket of a booked seat
